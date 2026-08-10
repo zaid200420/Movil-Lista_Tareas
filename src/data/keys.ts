@@ -1,0 +1,15 @@
+export const STORAGE_KEYS = {
+  PEDIDOS: '@interandina/pedidos',
+  TURNO_ACTIVO: '@interandina/turno_activo',
+  HISTORIAL_TURNOS: '@interandina/historial_turnos',
+  CONDUCTORES: '@interandina/conductores',
+  CAMIONES: '@interandina/camiones',
+  USUARIOS: '@interandina/usuarios',
+  CORRELATIVO_GUIA: '@interandina/correlativo_guia',
+  ROL_ACTIVO: '@interandina/rol_activo',
+  USUARIO_ACTIVO: '@interandina/usuario_activo',
+  CONDUCTOR_ACTIVO: '@interandina/conductor_activo',
+  TODO_TODOS: '@todoapp:todos',
+  AUTH_KEY: '@todoapp:auth',
+  AUTH_USERS: '@todoapp:users',
+};
